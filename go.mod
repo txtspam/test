@@ -1,4 +1,4 @@
-module github.com/acheong08/ChatGPT-Proxy-V4
+module github.com/txtspam/test
 
 go 1.20
 
